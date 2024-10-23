@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tophat.todo.tools.LinLayID
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:layout_height="wrap_content"
+     android:layout_width="match_parent"
+     android:orientation="horizontal"
+     android:id="@+id/ident"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+         android:layout_height="match_parent"
+         android:layout_width="match_parent"
+         android:gravity="center_vertical"
+         android:orientation="vertical"
+         android:layout_weight="1"
+         android:layout_gravity="center_vertical">
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="match_parent"
+             android:textSize="24sp"
+             android:id="@+id/nameText"
+             android:text="TextView"
+             android:textStyle="bold" />
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="match_parent"
+             android:textSize="18sp"
+             android:id="@+id/stuff"
+             android:text="TextView" />
+
+    </LinearLayout>
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:text="X"
+        android:onClick="deleteEntry" />
+
+</com.tophat.todo.tools.LinLayID>

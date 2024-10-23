@@ -1,0 +1,110 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/todo/app/src/main/java/com/tophat/todo/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": 3734,
+          "line": 102
+        },
+        "start": {
+          "column": 8,
+          "index": 3734,
+          "line": 102
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/todo/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 32,
+          "index": 794,
+          "line": 22
+        },
+        "start": {
+          "column": 32,
+          "index": 794,
+          "line": 22
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/todo/app/src/main/java/com/tophat/todo/Stuff.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/todo/app/src/main/res/anim/blink.xml",
+      "selection": {
+        "end": {
+          "column": 32,
+          "index": 748,
+          "line": 20
+        },
+        "start": {
+          "column": 32,
+          "index": 748,
+          "line": 20
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/todo/app/src/main/res/layout/popup.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/todo/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/todo/app/src/main/res/anim/blinkin.xml",
+      "selection": {
+        "end": {
+          "column": 29,
+          "index": 401,
+          "line": 10
+        },
+        "start": {
+          "column": 29,
+          "index": 401,
+          "line": 10
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/todo/app/src/main/res/anim/blink.xml"
+}

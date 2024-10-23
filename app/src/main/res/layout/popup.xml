@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     xmlns:tools="http://schemas.android.com/tools"
+     android:layout_height="wrap_content"
+     android:layout_width="wrap_content"
+     android:background="@drawable/buttonshape"
+     android:orientation="vertical"
+     android:backgroundTint="#304d6d"
+     tools:context=".MainActivity"
+    android:elevation="40dp">
+
+    <EditText
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_centerInParent="true"
+         android:layout_margin="30dp"
+         android:textSize="22sp"
+         android:text=""
+         android:id="@+id/newstf" />
+
+    <Spinner
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:background="@drawable/buttonshape"
+         android:backgroundTint="#545e75"
+         android:spinnerMode="dropdown"
+         android:id="@+id/spinner1">
+
+    </Spinner>
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_margin="30dp"
+         android:textSize="22sp"
+         android:text="Save"
+         android:id="@+id/saver" />
+
+</LinearLayout>

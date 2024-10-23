@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <!-- Base application theme. -->
+  <style name="Base.AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+    <!-- Customize your theme here. -->
+ <item name="colorPrimary">@color/colorPrimary</item>
+  </style>
+
+  <style name="AppTheme" parent="Base.AppTheme" />
+    <style name="Animation">
+    <item name="android:windowEnterAnimation">@anim/blink</item>
+    <item name="android:windowExitAnimation">@anim/blinkin</item>
+</style>
+</resources>
